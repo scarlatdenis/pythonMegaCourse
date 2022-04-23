@@ -20,7 +20,7 @@ while True:
     if key == ord('q'):
         break
 # when press q process will stoped
-print(a) # fps
+print(a)  # fps
 video.release()
 
 cv2.destroyAllWindows()
